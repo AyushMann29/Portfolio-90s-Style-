@@ -1,0 +1,27 @@
+* {
+    font-family: "Press Start 2P", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+body{
+    background-image: url("internet\ bg.png");
+
+}
+
+.internet{
+    background-image: url("background.jpg");
+    height: 90vh;
+    width: 60vw;
+    border:3px solid black;
+}
+
+#close{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    position: relative;
+    left:47%
+}
