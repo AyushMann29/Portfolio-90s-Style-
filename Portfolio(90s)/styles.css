@@ -224,3 +224,8 @@ footer {
 .start-menu:hover .menu-content {
     display: block;
 }
+
+#name{
+    position: relative;
+    margin-left: 30vw;
+}
